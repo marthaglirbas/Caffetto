@@ -201,10 +201,12 @@ padding-top: 200px;
 .flex-menu-wrapper {
     display: flex;
     flex-direction: row;
-    justify-content: center;
     align-items: flex-start;
+    justify-content: center;
     max-width: 1300px;
     gap: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .item-col {
